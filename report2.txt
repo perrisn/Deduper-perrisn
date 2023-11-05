@@ -1,0 +1,46 @@
+Number unique reads:13719048
+Number duplicate reads:4467362
+Number unknown UMIS:0
+Number of chromosome 1: 697508
+Number of chromosome 10: 564903
+Number of chromosome 11: 1220389
+Number of chromosome 12: 359951
+Number of chromosome 13: 467659
+Number of chromosome 14: 387239
+Number of chromosome 15: 437465
+Number of chromosome 16: 360923
+Number of chromosome 17: 517566
+Number of chromosome 18: 290506
+Number of chromosome 19: 571665
+Number of chromosome 2: 2787018
+Number of chromosome 3: 547615
+Number of chromosome 4: 589839
+Number of chromosome 5: 562160
+Number of chromosome 6: 510818
+Number of chromosome 7: 1113183
+Number of chromosome 8: 576463
+Number of chromosome 9: 627488
+Number of chromosome MT: 202002
+Number of chromosome X: 317853
+Number of chromosome Y: 2247
+Number of chromosome JH584299.1: 3
+Number of chromosome GL456233.2: 656
+Number of chromosome GL456211.1: 6
+Number of chromosome GL456221.1: 4
+Number of chromosome GL456354.1: 1
+Number of chromosome GL456210.1: 5
+Number of chromosome GL456212.1: 4
+Number of chromosome JH584304.1: 294
+Number of chromosome GL456379.1: 2
+Number of chromosome GL456367.1: 3
+Number of chromosome GL456239.1: 1
+Number of chromosome GL456383.1: 1
+Number of chromosome MU069435.1: 5450
+Number of chromosome GL456389.1: 1
+Number of chromosome GL456370.1: 21
+Number of chromosome GL456390.1: 1
+Number of chromosome GL456382.1: 1
+Number of chromosome GL456396.1: 17
+Number of chromosome GL456368.1: 3
+Number of chromosome MU069434.1: 3
+Number of chromosome JH584295.1: 111
